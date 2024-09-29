@@ -1,5 +1,5 @@
 <h1> WEKODED Material</h1>
-![dark-hard-flat](https://github.com/wekoded/wekoded-material-vscode/blob/eb46389f70c055de72d9c595eb9870a4ee95479e/preview.png)
+![dark-hard-flat](preview.png)
 
 
 <p align="center">
