@@ -1,5 +1,5 @@
 <h1> WEKODED Material</h1>
-![dark-hard-flat](preview.png)
+![dark-hard-flat](./preview.png)
 
 
 <p align="center">
